@@ -1,6 +1,6 @@
 ---
 slug: /unshared-projects
-sidebar_label: Unshared Projects
+sidebar_label: new project
 ---
 
 # Unshared projects will be actually private eventually
@@ -45,7 +45,7 @@ We've always had the stance that if people want unshared projects to actually be
 ## Workarounds {#workarounds}
 
 Our first priority is making sure that shared projects continue to work with minimal interruption. Anything else related to unshared projects will happen later if at all.
-
+forkphous
 You should assume that existing links relying on viewing unshared projects, including embeds, will not work in the future without changes.
 
 Here's our current list of suggested workarounds:
